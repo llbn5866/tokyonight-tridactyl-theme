@@ -7,4 +7,5 @@ Simple monochrome theme for the [tridactyl](https://github.com/tridactyl/tridact
 <br>
 
 ## Installation
-  Enter command mode in trydactyl and run `:colors --url https://raw.githubusercontent.com/llbn5866/tridactyl-monochrome-theme/refs/heads/main/monochrome monno` <br>
+  Enter command mode in trydactyl and run `:colors --url https://raw.githubusercontent.com/llbn5866/tokyonight-tridactyl-theme/refs/heads/main/tokyonight.css tokyonight` <br>
+![image](https://github.com/user-attachments/assets/3e9cbfab-2c4f-4c5d-8e77-56cc4ce66f11)
